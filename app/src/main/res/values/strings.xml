@@ -15,6 +15,7 @@
     <string name="apply">Apply</string>
     <string name="cancel">Cancel</string>
     <string name="save">Save</string>
+    <string name="download">Download</string>
     <string name="share">Share</string>
     <string name="delete">Delete</string>
     <string name="undo">Undo</string>
@@ -33,4 +34,7 @@
     <string name="image_saved">Image saved successfully</string>
     <string name="error_loading_image">Error loading image</string>
     <string name="no_permission">Permission denied</string>
+    <string name="download_save">Download/Save</string>
+    <string name="save_image">Save Image</string>
+    <string name="saved_images">Saved Images</string>
 </resources>
