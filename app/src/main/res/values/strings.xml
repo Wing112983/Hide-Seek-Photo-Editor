@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hide &amp; Seek Photo Editor</string>
+    <string name="app_description">Professional image restoration and enhancement</string>
+    
+    <!-- Navigation -->
+    <string name="home">Home</string>
+    <string name="editor">Editor</string>
+    <string name="gallery">Gallery</string>
+    <string name="settings">Settings</string>
+    
+    <!-- Buttons -->
+    <string name="pick_image">Pick Image</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="apply">Apply</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="undo">Undo</string>
+    <string name="reset">Reset</string>
+    
+    <!-- Features -->
+    <string name="deblur">Deblur</string>
+    <string name="denoise">Denoise</string>
+    <string name="enhance">Enhance</string>
+    <string name="upscale">Upscale</string>
+    <string name="repair">Repair</string>
+    <string name="stabilize">Stabilize</string>
+    
+    <!-- Messages -->
+    <string name="processing">Processing...</string>
+    <string name="image_saved">Image saved successfully</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="no_permission">Permission denied</string>
+</resources>
